@@ -6,8 +6,10 @@ def swap_values(x, y):
     
     print(f"Swapped values: x = {x}, y = {y}")
 
+# Scenario 1:
 result = swap_values("Apple", 10)
 print(result)
 
+# Scenario 2:
 result = swap_values(9, 17)
 print(result)
